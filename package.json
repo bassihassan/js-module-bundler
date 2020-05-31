@@ -1,0 +1,15 @@
+{
+  "name": "costum-webpack",
+  "version": "1.0.0",
+  "description": "POC : js bundler",
+  "main": "index.js",
+  "keywords": [],
+  "author": "BASSI Hassan",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "7.9.6",
+    "@babel/parser": "7.9.6",
+    "@babel/preset-env": "7.9.6",
+    "@babel/traverse": "7.9.6"
+  }
+}
