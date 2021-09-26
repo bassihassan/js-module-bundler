@@ -1,6 +1,6 @@
 ## Introduction 
 
-This repository contain the source code of my article [Build It from scratch : (JavaScript module Bundler)](https://xlog.x-hub.io/build-it-from-scratch-javascript-module-bundler)
+This repository contain the source code of my article [Build It from scratch : (JavaScript module Bundler)](https://blog.x-hub.io/javascript/)
 
 ## Run
 
